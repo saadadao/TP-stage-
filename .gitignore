@@ -1,0 +1,20 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Fichiers locaux et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers temporaires et caches
+*.log
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+dist/
+
+# Installateur Chrome telecharge
+/google-chrome-stable_current_amd64.deb
