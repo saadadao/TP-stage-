@@ -10,7 +10,7 @@ def score(mdp):
     print("2 majuscules          :", majuscules)
     print("4 chiffres            :", chiffres)
     print("1 caractère spécial   :", special)
-
+    
     if longueur == False:
         print("Nombre de caractères insuffisant")
     if majuscules == False:
