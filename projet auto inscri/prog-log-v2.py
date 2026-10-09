@@ -26,7 +26,7 @@ JOUR = "5"
 ANNEE = "2000"
 
 IDENTIFIANT = "lucas.martin.test12342441"
-MOT_DE_PASSE = "Test123456"
+MOT_DE_PASSE = "Test123456@"
 
 
 # ============================================================
