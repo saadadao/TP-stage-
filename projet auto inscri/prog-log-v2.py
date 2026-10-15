@@ -1,3 +1,5 @@
+#prog avec qr a scan
+
 # ============================================================
 # IMPORTATION DES BIBLIOTHÈQUES
 # ============================================================
@@ -219,6 +221,12 @@ print("Première étape...")
 tab()
 
 # TAB
+tab()
+
+tab()
+
+tab()
+
 tab()
 
 # ENTER
